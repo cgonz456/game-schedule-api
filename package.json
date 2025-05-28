@@ -18,6 +18,8 @@
   "homepage": "https://github.com/cgonz123/game-schedule-api#readme",
   "description": "",
   "dependencies": {
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^5.1.0"
   }
