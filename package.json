@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
     "url": "https://github.com/cgonz123/game-schedule-api/issues"
   },
   "homepage": "https://github.com/cgonz123/game-schedule-api#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
